@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rise-Ease/static/css/main.db0a5c37.css",
-    "main.js": "/Rise-Ease/static/js/main.cb331cc7.js",
-    "static/js/787.57ac859d.chunk.js": "/Rise-Ease/static/js/787.57ac859d.chunk.js",
-    "static/media/background.png": "/Rise-Ease/static/media/background.9027e2c7452319e9bc87.png",
-    "static/media/clockback.png": "/Rise-Ease/static/media/clockback.46683b42e1e3125b2c1e.png",
-    "static/media/alarm.png": "/Rise-Ease/static/media/alarm.832062cffabcc694f351.png",
-    "index.html": "/Rise-Ease/index.html",
-    "main.db0a5c37.css.map": "/Rise-Ease/static/css/main.db0a5c37.css.map",
-    "main.cb331cc7.js.map": "/Rise-Ease/static/js/main.cb331cc7.js.map",
-    "787.57ac859d.chunk.js.map": "/Rise-Ease/static/js/787.57ac859d.chunk.js.map"
+    "main.css": "/git%20push%20-u%20origin%20main/static/css/main.1f40c95d.css",
+    "main.js": "/git%20push%20-u%20origin%20main/static/js/main.d9c3ca02.js",
+    "static/js/787.57ac859d.chunk.js": "/git%20push%20-u%20origin%20main/static/js/787.57ac859d.chunk.js",
+    "static/media/background.png": "/git%20push%20-u%20origin%20main/static/media/background.9027e2c7452319e9bc87.png",
+    "static/media/clockback.png": "/git%20push%20-u%20origin%20main/static/media/clockback.46683b42e1e3125b2c1e.png",
+    "static/media/alarm.png": "/git%20push%20-u%20origin%20main/static/media/alarm.832062cffabcc694f351.png",
+    "index.html": "/git%20push%20-u%20origin%20main/index.html",
+    "main.1f40c95d.css.map": "/git%20push%20-u%20origin%20main/static/css/main.1f40c95d.css.map",
+    "main.d9c3ca02.js.map": "/git%20push%20-u%20origin%20main/static/js/main.d9c3ca02.js.map",
+    "787.57ac859d.chunk.js.map": "/git%20push%20-u%20origin%20main/static/js/787.57ac859d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db0a5c37.css",
-    "static/js/main.cb331cc7.js"
+    "static/css/main.1f40c95d.css",
+    "static/js/main.d9c3ca02.js"
   ]
 }
