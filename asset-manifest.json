@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MuhamanButt/Rise-Ease/static/css/main.ee5a215a.css",
-    "main.js": "/MuhamanButt/Rise-Ease/static/js/main.020c4a3d.js",
-    "static/js/787.57ac859d.chunk.js": "/MuhamanButt/Rise-Ease/static/js/787.57ac859d.chunk.js",
-    "static/media/background.png": "/MuhamanButt/Rise-Ease/static/media/background.9027e2c7452319e9bc87.png",
-    "static/media/clockback.png": "/MuhamanButt/Rise-Ease/static/media/clockback.46683b42e1e3125b2c1e.png",
-    "static/media/alarm.png": "/MuhamanButt/Rise-Ease/static/media/alarm.832062cffabcc694f351.png",
-    "index.html": "/MuhamanButt/Rise-Ease/index.html",
-    "main.ee5a215a.css.map": "/MuhamanButt/Rise-Ease/static/css/main.ee5a215a.css.map",
-    "main.020c4a3d.js.map": "/MuhamanButt/Rise-Ease/static/js/main.020c4a3d.js.map",
-    "787.57ac859d.chunk.js.map": "/MuhamanButt/Rise-Ease/static/js/787.57ac859d.chunk.js.map"
+    "main.css": "/Rise-Ease/static/css/main.4b446333.css",
+    "main.js": "/Rise-Ease/static/js/main.91128d06.js",
+    "static/js/787.57ac859d.chunk.js": "/Rise-Ease/static/js/787.57ac859d.chunk.js",
+    "static/media/background.png": "/Rise-Ease/static/media/background.9027e2c7452319e9bc87.png",
+    "static/media/clockback.png": "/Rise-Ease/static/media/clockback.46683b42e1e3125b2c1e.png",
+    "static/media/alarm.png": "/Rise-Ease/static/media/alarm.832062cffabcc694f351.png",
+    "index.html": "/Rise-Ease/index.html",
+    "main.4b446333.css.map": "/Rise-Ease/static/css/main.4b446333.css.map",
+    "main.91128d06.js.map": "/Rise-Ease/static/js/main.91128d06.js.map",
+    "787.57ac859d.chunk.js.map": "/Rise-Ease/static/js/787.57ac859d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee5a215a.css",
-    "static/js/main.020c4a3d.js"
+    "static/css/main.4b446333.css",
+    "static/js/main.91128d06.js"
   ]
 }
