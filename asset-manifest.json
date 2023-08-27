@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/git%20push%20-u%20origin%20main/static/css/main.1f40c95d.css",
-    "main.js": "/git%20push%20-u%20origin%20main/static/js/main.d9c3ca02.js",
-    "static/js/787.57ac859d.chunk.js": "/git%20push%20-u%20origin%20main/static/js/787.57ac859d.chunk.js",
-    "static/media/background.png": "/git%20push%20-u%20origin%20main/static/media/background.9027e2c7452319e9bc87.png",
-    "static/media/clockback.png": "/git%20push%20-u%20origin%20main/static/media/clockback.46683b42e1e3125b2c1e.png",
-    "static/media/alarm.png": "/git%20push%20-u%20origin%20main/static/media/alarm.832062cffabcc694f351.png",
-    "index.html": "/git%20push%20-u%20origin%20main/index.html",
-    "main.1f40c95d.css.map": "/git%20push%20-u%20origin%20main/static/css/main.1f40c95d.css.map",
-    "main.d9c3ca02.js.map": "/git%20push%20-u%20origin%20main/static/js/main.d9c3ca02.js.map",
-    "787.57ac859d.chunk.js.map": "/git%20push%20-u%20origin%20main/static/js/787.57ac859d.chunk.js.map"
+    "main.css": "/MuhamanButt/Rise-Ease/static/css/main.ee5a215a.css",
+    "main.js": "/MuhamanButt/Rise-Ease/static/js/main.020c4a3d.js",
+    "static/js/787.57ac859d.chunk.js": "/MuhamanButt/Rise-Ease/static/js/787.57ac859d.chunk.js",
+    "static/media/background.png": "/MuhamanButt/Rise-Ease/static/media/background.9027e2c7452319e9bc87.png",
+    "static/media/clockback.png": "/MuhamanButt/Rise-Ease/static/media/clockback.46683b42e1e3125b2c1e.png",
+    "static/media/alarm.png": "/MuhamanButt/Rise-Ease/static/media/alarm.832062cffabcc694f351.png",
+    "index.html": "/MuhamanButt/Rise-Ease/index.html",
+    "main.ee5a215a.css.map": "/MuhamanButt/Rise-Ease/static/css/main.ee5a215a.css.map",
+    "main.020c4a3d.js.map": "/MuhamanButt/Rise-Ease/static/js/main.020c4a3d.js.map",
+    "787.57ac859d.chunk.js.map": "/MuhamanButt/Rise-Ease/static/js/787.57ac859d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f40c95d.css",
-    "static/js/main.d9c3ca02.js"
+    "static/css/main.ee5a215a.css",
+    "static/js/main.020c4a3d.js"
   ]
 }
