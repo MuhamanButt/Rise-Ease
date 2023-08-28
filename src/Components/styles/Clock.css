@@ -1,0 +1,46 @@
+.clock-main {
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  margin: 0px;
+}
+.clock-main .clock {
+  align-self: center;
+  background-image: url("/src/Components/images/clockback.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.565));
+}
+.clock-main-text {
+  font-size: 20px;
+  font-weight: 100 !important;
+  text-align: center;
+  color: white;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.565));
+}
+
+.clock {
+  color: white;
+  text-align: center;
+  font-weight: 100;
+}
+@media screen and (min-width: 600px) {
+  .clock-main .clock {
+    height: 300px !important;
+  }
+  .clock-main {
+    height: 100%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .clock-main .clock {
+    height: 300px !important;
+  }
+}
+@media screen and (min-height: 770px) {
+  .clock-main .clock {
+    height: 400px !important;
+  }
+}

@@ -1,0 +1,14 @@
+.btn-img {
+  width: 30px;
+  filter: drop-shadow(5px 5px 4px black);
+}
+.btn-text {
+  color: white;
+  padding-top: 10px;
+  font-weight: 100;
+  filter: drop-shadow(5px 5px 5px black);
+}
+.simple-button:hover {
+  border-bottom: 2px solid white;
+  cursor: pointer;
+}

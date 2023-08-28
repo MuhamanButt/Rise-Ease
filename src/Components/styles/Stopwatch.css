@@ -1,0 +1,35 @@
+.stopwatch {
+  margin: 0px;
+  padding: 0px;
+  justify-content: center;
+  height: 70%;
+}
+.stopwatchTime {
+  color: white;
+  font-size: 50px;
+  border-top: 2px solid #05d1fa;
+  border-bottom: 2px solid #05d1fa;
+  margin: 20px 0px;
+  filter: drop-shadow(5px 5px 5px black);
+}
+
+@media screen and (max-width: 500px) {
+  .stopwatchTime {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .stopwatchTime {
+    font-size: 30px;
+  }
+}
+
+.glassMorphism {
+  background: rgba(36, 141, 190, 0.205);
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}

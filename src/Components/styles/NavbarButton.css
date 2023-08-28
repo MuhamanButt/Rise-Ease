@@ -1,0 +1,41 @@
+.navbarButton-text {
+  color: rgb(177, 177, 177);
+  margin: 0px;
+  margin: 5px 0px;
+  font-size: 10px;
+}
+.navbarButton-image {
+  margin-top: 10px;
+  height: 15px;
+}
+.navbar-button {
+  text-align: center;
+  margin: 0px;
+  filter: drop-shadow(5px 5px 15px black);
+}
+.navbar-button:hover {
+  background: linear-gradient(180deg, #05d1fa, #0084fe);
+  border-radius: 15px;
+}
+.navbarButton-text:hover {
+  color: white;
+}
+/* @media screen and (min-width: 500px) {
+    .navbarButton-text {
+      font-size: 15px;
+    }
+    .navbarButton-image {
+      height: 20px;
+    }
+  }
+@media screen and (min-width: 700px) {
+  .navbarButton-text {
+    font-size: 20px;
+  }
+  .navbarButton-image {
+    height: 25px;
+  }
+} */
+.active {
+  border-bottom: 3px solid #05d1fa;
+}

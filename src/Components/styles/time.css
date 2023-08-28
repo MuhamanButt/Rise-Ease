@@ -1,0 +1,16 @@
+.time p {
+  font-size: 40px;
+  font-weight: 400;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.565));
+}
+@media screen and (min-width: 350px) {
+  .time p {
+    font-size: 50px;
+  }
+}
+
+@media screen and (min-width: 530px) {
+  .time p {
+    font-size: 60px !important;
+  }
+}

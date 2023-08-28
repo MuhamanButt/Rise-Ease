@@ -1,0 +1,13 @@
+.navbar {
+  margin: 0px;
+  margin-top: 10px;
+  border-top: 1px solid #d3faff;
+  background-color: #142236;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  filter: drop-shadow(0px 0px 50px black) drop-shadow(0px 0px 50px black);
+}
+.navbar:hover {
+  cursor: pointer;
+}

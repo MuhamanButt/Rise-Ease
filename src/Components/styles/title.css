@@ -1,0 +1,23 @@
+.Heading {
+  font-size: 20px;
+  filter: drop-shadow(5px 5px 5px #361414);
+  color: #05d1fa;
+  padding: 20px 10px;
+}
+@media screen and (min-width: 700px) {
+  .Heading {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 700px) {
+  .Heading {
+    font-size: 50px;
+  }
+}
+.Heading button {
+  background-color: transparent;
+  border: none;
+  color: #05d1fa;
+  margin-right: 10px;
+  font-size: 20px;
+}

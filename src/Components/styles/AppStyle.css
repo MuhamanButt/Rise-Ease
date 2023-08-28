@@ -1,0 +1,31 @@
+.app-container {
+  min-height: 100vh;
+  height: 100;
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*----------------------------------------------------------------------------webkit-scrollbar*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #05d1fa;
+  border-radius: 10px;
+  box-shadow: inset 0 0 5px grey;
+  width: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0084fe;
+}

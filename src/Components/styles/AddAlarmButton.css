@@ -1,0 +1,21 @@
+.button .col img {
+  height: 20px;
+  text-align: center;
+  filter: drop-shadow(0px 0px 5px black);
+}
+.button .col {
+  align-self: center;
+}
+.button {
+  bottom: 80px;
+  height: 40px;
+  width: 40px;
+  background-color: #243b57;
+  padding: 0px;
+  border-radius: 100%;
+  border: 2px solid #d3faff;
+  filter: drop-shadow(0px 0px 5px black);
+}
+.button:hover {
+  cursor: pointer;
+}
