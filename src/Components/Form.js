@@ -41,7 +41,7 @@ const Form = ({ AddAlarmHandler, crossHandler, hourHandler, minHandler, dayHandl
               </div>
             </div>
             <br />
-            <button type="button" className="btn btn-outline-info w-50 mt-3 mb-3 z-3" onClick={addAlarmHandler} style={{ filter: "drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.44))" }}>
+            <button type="button" className="btn btn-outline-info w-50 mt-3 mb-3" onClick={addAlarmHandler} style={{ filter: "drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.44))" }}>
               Add Alarm
             </button>
           </div>
